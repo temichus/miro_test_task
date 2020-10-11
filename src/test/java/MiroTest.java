@@ -23,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 
 import static junit.framework.TestCase.assertTrue;
 
-public class FulltestTest {
+public class MiroTest {
   private WebDriver driver;
   private Map<String, Object> vars;
   private WebDriverWait wait;

@@ -14,6 +14,9 @@ Maven
 ###Test runner 
 Junit
 
+###Tes case location
+src/test/java/MiroTest::share_board_test
+
 ###Configuration
  - prepare test_config.yaml file with the following structure:
      
